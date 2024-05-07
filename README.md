@@ -12,5 +12,5 @@
 </a>
 
 <a href="https://wakatime.com/share/@walnuts1018/eb2e9003-815c-4c5e-a396-b5d613ac584c.svg">
-  <img align="left" src="https://wakatime.com/share/@walnuts1018/eb2e9003-815c-4c5e-a396-b5d613ac584c.svg" />
+  <img align="left" src="https://wakatime.com/share/@walnuts1018/eb2e9003-815c-4c5e-a396-b5d613ac584c.svg" width="467" />
 </a>
