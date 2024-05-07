@@ -10,3 +10,7 @@
 <a href="https://github-readme-stats.walnuts.dev/top-langs/?username=walnuts1018&theme=buefy&langs_count=100&hide=TeX,AGS%20Script&card_width=467&layout=compact">
   <img align="left" src="https://github-readme-stats.walnuts.dev/top-langs/?username=walnuts1018&theme=buefy&langs_count=100&hide=TeX,AGS%20Script&card_width=467&layout=compact" />
 </a>
+
+<a href="https://wakatime.com/share/@walnuts1018/eb2e9003-815c-4c5e-a396-b5d613ac584c.svg">
+  <img align="left" src="https://wakatime.com/share/@walnuts1018/eb2e9003-815c-4c5e-a396-b5d613ac584c.svg" />
+</a>
