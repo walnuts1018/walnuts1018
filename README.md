@@ -3,10 +3,6 @@
 [![Pod Status](https://walnuts1018.github.io/infra/podStatus.svg)](https://walnuts1018.github.io/infra/podStatus.svg)
 [![Node Status](https://walnuts1018.github.io/infra/nodeStatus.svg)](https://walnuts1018.github.io/infra/nodeStatus.svg)
 
-<a href="https://github-readme-stats.walnuts.dev?username=walnuts1018&count_private=true&include_all_commits=true&show_icons=true&theme=buefy">
-  <img align="left" src="https://github-readme-stats.walnuts.dev?username=walnuts1018&count_private=true&include_all_commits=true&show_icons=true&theme=buefy" />
-</a>
-
 <a href="https://github-readme-stats.walnuts.dev/top-langs/?username=walnuts1018&theme=buefy&langs_count=100&card_width=467&layout=compact&hide=TeX,AGS%20Script,HTML,CSS,Makefile">
   <img align="left" src="https://github-readme-stats.walnuts.dev/top-langs/?username=walnuts1018&theme=buefy&langs_count=100&card_width=467&layout=compact&hide=TeX,AGS%20Script,HTML,CSS,Makefile" />
 </a>
